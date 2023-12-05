@@ -1,0 +1,39 @@
+.navbar {
+  width: 100%;
+  height: auto;
+  background-color: #d0b49f;
+  display:flex;
+  justify-content: right;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
+
+.links {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+.links a:hover{
+  color: white;
+}
+
+img.logo{
+  width: 12%; 
+  height: auto; 
+  border-radius: 50px;
+  margin-right: 45%;
+}
+
+.icon{
+  margin-bottom: -3px;
+}

@@ -1,0 +1,112 @@
+@font-face {
+  font-family: 'Beyonders';
+  src: url('../../fonts/Beyonders.otf') format('truetype');
+
+}
+@font-face {
+  font-family: 'Dreams';
+  src: url('../../fonts/Dreams.ttf') format('truetype');
+
+}
+@font-face {
+  font-family: 'Code';
+  src: url('../../fonts/Code.otf') format('truetype');
+
+}
+
+
+
+.shopTitle {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.shopTitle img{
+  width:80%;
+  height: auto;
+}
+.products {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+.product {
+  border-radius: 15px;
+  width: 300px;
+  height: 350px;
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.product img {
+  width: 300px;
+  transition: transform 0.1s ease-in-out;
+  border: 0px;
+  border-radius: 20px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.4);
+}
+
+.product img:hover{
+  transform: scale(1.1);
+  animation-duration: 0.1s, ease;
+}
+
+.product .description {
+  text-align: center;
+}
+
+.product:hover {
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+
+.addToCartBttn {
+  background-color: transparent;
+  border: 2px solid rgb(19, 19, 19);
+  min-width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+}
+
+.addToCartBttn:hover {
+  background-color: #e7d1c9;
+  color: black;
+  cursor: pointer;
+}
+
+h1.dreams{
+  text-align: center;
+  font-family: 'Beyonders', sans-serif;
+  font-size: 100px;
+  margin-bottom: -120px;;
+}
+.dreams{
+  font-family: 'Dreams';
+  font-size: 25px;
+}
+
+.shopTitle img{
+  margin-bottom: 50px;
+}
+.logoo{
+  align-items: center;
+  background-color: white;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
+.logoo img{
+  height: 150px;
+  width: auto;
+  margin-left: 40%
+}

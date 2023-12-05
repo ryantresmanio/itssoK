@@ -1,0 +1,97 @@
+.contact{
+    align-items: center;
+    padding-bottom: 10vh;
+    font-size: 20px;
+    color: #7d573a;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+form {
+    width: 60vw;
+    max-height: 350px;
+    max-width: 700px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 3em;
+  }
+  
+  fieldset {
+    border: none;
+ 
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0px;
+    margin-top: 0.5rem;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 17px;
+  }
+  
+  input{
+    margin: 20px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+    font-family:'Courier New', Courier, monospace;
+    background-color: white;
+    opacity: 60%;
+  }
+
+  #message{
+    min-height: 200px;
+  }
+
+  input, textarea {
+    margin-top: 20px;
+    border: 1px solid #0a0a23;
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+  }
+
+  #send_btn{
+    background: white;
+    opacity: 60%;
+    border: 1px solid;
+    width: 70px;
+    height: 30px;
+    border-radius: 50px;
+    margin-left: 45%
+  }
+#send_btn:active{
+    background: rgba(147, 177, 166,0.5);
+}
+input:hover,   #send_btn:hover, textarea:hover{
+    background: rgba(204, 200, 170, 0.9);
+}
+
+.socials{
+    margin-top:50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #7d573a;
+}
+.git:hover{
+    color: black;
+}
+.fb{
+    margin-left: 5%;
+}
+
+.ig{
+    margin-left: 5%;
+}
+
+.fb:hover{
+    color: black;
+}
+
+.ig:hover{
+    color: black;
+}
+
