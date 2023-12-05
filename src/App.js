@@ -16,6 +16,7 @@ function App() {
         <Router>
           <Navbar />
           <Routes>
+    <h1>Shop Now</h1>
             <Route path="/" element={<Shop />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/cart" element={<Cart />} />
