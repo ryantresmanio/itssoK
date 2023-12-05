@@ -16,7 +16,7 @@ function App() {
         <Router>
           <Navbar />
           <Routes>
-            <Route path="https://ryantresmanio.github.io/" element={<Shop />} />
+            <Route path="/" element={<Shop />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/album" element={<Album/>} />
