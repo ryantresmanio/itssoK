@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.a1da34ad.css",
+    "main.js": "/project/static/js/main.071ede74.js",
+    "static/media/svt-new.jpg": "/project/static/media/svt-new.d29e1304b7710d251b0c.jpg",
+    "static/media/enha-new.jpg": "/project/static/media/enha-new.c2f318596b54ad459cb9.jpg",
+    "static/media/aespa-new.jpg": "/project/static/media/aespa-new.a78c1787f9bb4ba79812.jpg",
+    "static/media/rv-new.jpg": "/project/static/media/rv-new.c1a9f23bb1f5ee7adcc3.jpg",
+    "static/media/nct-pb.jpg": "/project/static/media/nct-pb.39657d5b2d41dd3bf58b.jpg",
+    "static/media/gidle-pb.jpg": "/project/static/media/gidle-pb.8577416ab4205714cf42.jpg",
+    "static/media/manifesto-album.jpg": "/project/static/media/manifesto-album.4568f5dde30cfe3c0e70.jpg",
+    "static/media/logo.png": "/project/static/media/logo.dd045c2b74a10f8c045e.png",
+    "static/media/lisa-pb.jpg": "/project/static/media/lisa-pb.ee9d6abaaf471e1a16db.jpg",
+    "static/media/chaeyoung-pb.jpg": "/project/static/media/chaeyoung-pb.3a11ca954e79700fd9c8.jpg",
+    "static/media/Dreams.ttf": "/project/static/media/Dreams.316ac838468e0e70f623.ttf",
+    "static/media/drama-album.jpg": "/project/static/media/drama-album.35aac296562cbe88288c.jpg",
+    "static/media/exo-ls.jpg": "/project/static/media/exo-ls.568b91fb1537eb98ade9.jpg",
+    "static/media/rv-ls.jpg": "/project/static/media/rv-ls.95760cc2cdd7f63ee901.jpg",
+    "static/media/nct-ls.jpg": "/project/static/media/nct-ls.6f904d0568d578a700e5.jpg",
+    "static/media/fearless-album.jpg": "/project/static/media/fearless-album.03c7b8870b1221f5cae3.jpg",
+    "static/media/enha-album.jpg": "/project/static/media/enha-album.3b5bb20cf5093f180532.jpg",
+    "static/media/bornpink-album.jpg": "/project/static/media/bornpink-album.59f9de7d3ec5d5986a57.jpg",
+    "static/media/logo.jpg": "/project/static/media/logo.00a72dd9a08d3ad9eb41.jpg",
+    "static/media/Code.otf": "/project/static/media/Code.1efa185f79586f80d777.otf",
+    "static/media/Beyonders.otf": "/project/static/media/Beyonders.403d77e4dded585222b3.otf",
+    "index.html": "/project/index.html",
+    "main.a1da34ad.css.map": "/project/static/css/main.a1da34ad.css.map",
+    "main.071ede74.js.map": "/project/static/js/main.071ede74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1da34ad.css",
+    "static/js/main.071ede74.js"
+  ]
+}
